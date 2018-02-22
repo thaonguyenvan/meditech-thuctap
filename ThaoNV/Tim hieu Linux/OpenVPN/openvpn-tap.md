@@ -284,6 +284,8 @@ update-rc.d: see <http://wiki.debian.org/LSBInitScripts>
 ```
 
 - Đã hoàn tất cài đặt server, tiến hành gen keys cho client 1
+`source vars`
+`cd /etc/openvpn/easy-rsa`
 
 ```
 cd /etc/openvpn/easy-rsa
